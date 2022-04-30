@@ -27,7 +27,11 @@ The main class needs to contain constant variables that will tell the limit of f
 
 ## Installing
 
-Clone the project from current repository and set up SDK for the project.
+* Install [IntelliJ](https://www.jetbrains.com/help/idea/installation-guide.html)
+* Clone the project git clone git@github.com:bar-nir/JavaMulitThreadCoppier.git
+* Open the project in IntelliJ
+* Set up SDK 15 or above
+
 
 ## Executing program
 #### There are 6 inputs parameters.
