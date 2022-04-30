@@ -39,8 +39,8 @@ $ git pull git@github.com:bar-nir/JavaMulitThreadCoppier.git
 
 ## Executing program
 #### There are 6 command line arguments
-- 1 : boolean logs flag for priting the threads logs.
-- 2 : Prefix copy files that start with specific prefix
+- 1 : boolean flag for logs , (True = printing logs) ,(False = not printing logs)
+- 2 : Prefix (copy files from given directroy that start with a specific prefix)
 - 3 : Root to copy files from.
 - 4 : Destenation root for files.
 - 5 : Number of searchers threads.
