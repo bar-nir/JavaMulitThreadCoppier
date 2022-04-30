@@ -40,7 +40,7 @@ Clone the project from current repository and set up SDK for the project.
 * How to run the program
 * Example
 ```
-$ DiskSearcher <boolean flag for logs>  <file-prefix> <root directory> <dest directroy> <# of searchers> <# of coppiers>
+$ DiskSearcher <boolean flag for logs> <file-prefix> <root directory> <dest directroy> <# of searchers> <# of coppiers>
 ```
 
 
