@@ -5,7 +5,7 @@ Files with the specific prefix will be copied to a specified directory.
 
 ## Description
 
-Class SynchronizedQueue
+**Class SynchronizedQueue
 This class should allow multithreaded enqueue/dequeue operations.
 
 Class Scouter
