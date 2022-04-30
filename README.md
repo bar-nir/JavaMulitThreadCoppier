@@ -25,11 +25,11 @@ This class reads a file from the results queue (the queue of files that contains
 This is the main class of the application. This class contains a main method that starts the search process according to the given command lines.
 The main class needs to contain constant variables that will tell the limit of files that need to be copied (a maximum amount, a threshold).
 
-### Installing
+## Installing
 
 Clone the project from current repository and set up SDK for the project.
 
-### Executing program
+## Executing program
 #### There are 6 inputs parameters.
 - Logs flag : boolean for priting the threads logs.
 - Prefix : copy files with that starts with this prefix.
