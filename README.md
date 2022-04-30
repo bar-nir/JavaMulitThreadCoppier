@@ -26,9 +26,9 @@ This is the main class of the application. This class contains a main method tha
 The main class needs to contain constant variables that will tell the limit of files that need to be copied (a maximum amount, a threshold).
 
 ## Installing
-
+* Install the latest version of [Java](https://java.com)
 * Install [IntelliJ](https://www.jetbrains.com/help/idea/installation-guide.html)
-* Clone the project git clone git@github.com:bar-nir/JavaMulitThreadCoppier.git
+* Clone the project git clone [git@github.com:bar-nir/JavaMulitThreadCoppier.git]
 * Open the project in IntelliJ
 * Set up SDK 15 or above
 
