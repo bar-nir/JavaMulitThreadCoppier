@@ -37,8 +37,6 @@ Clone the project from current repository and set up SDK for the project.
 - Dest : destenation for files.
 - Number of searchers threads.
 - Number of coppiers threads.
-* How to run the program
-* Example
 ```
 $ DiskSearcher <boolean flag for logs> <file-prefix> <root directory> <dest directroy> <# of searchers> <# of coppiers>
 ```
