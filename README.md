@@ -28,6 +28,7 @@ The main class needs to contain constant variables that will tell the limit of f
 ## Installing
 * Install the latest version of [Java](https://java.com)
 * Install [IntelliJ](https://www.jetbrains.com/help/idea/installation-guide.html)
+* Clone the repository
 ```
 $ git init
 $ git pull git@github.com:bar-nir/JavaMulitThreadCoppier.git
@@ -37,13 +38,13 @@ $ git pull git@github.com:bar-nir/JavaMulitThreadCoppier.git
 
 
 ## Executing program
-#### There are 6 inputs parameters.
-- Logs flag : boolean for priting the threads logs.
-- Prefix : copy files with that starts with this prefix.
-- Root : root to copy files from.
-- Dest : destenation for files.
-- Number of searchers threads.
-- Number of coppiers threads.
+#### There are 6 command line arguments
+- 1 : boolean logs flag for priting the threads logs.
+- 2 : Prefix copy files that start with specific prefix
+- 3 : Root to copy files from.
+- 4 : Destenation root for files.
+- 5 : Number of searchers threads.
+- 6 : Number of coppiers threads.
 ```
 $ DiskSearcher <boolean flag for logs> <file-prefix> <root directory> <dest directroy> <# of searchers> <# of coppiers>
 ```
