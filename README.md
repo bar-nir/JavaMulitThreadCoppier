@@ -27,7 +27,6 @@ The main class needs to contain constant variables that will tell the limit of f
 
 ## Installing
 * Install the latest version of [Java](https://java.com)
-* Install [IntelliJ](https://www.jetbrains.com/help/idea/installation-guide.html)
 * Clone the repository
 ```
 $ git init
