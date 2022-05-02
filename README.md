@@ -1,6 +1,6 @@
 # Java multi-threaded application to copy files 
 
-The utility will allow searching for all files with a specific prefix in a root directory. 
+The utility was developed part of operating system course and will allow searching for all files with a specific prefix in a root directory. 
 Files with the specific prefix will be copied to a specified directory.
 
 ## Description
